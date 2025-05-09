@@ -178,6 +178,7 @@ through Fundação para a Ciência e Tecnologia ([FCT]) with reference
 [contributors]: ../../contributors
 [LICENSE file]: ./LICENSE
 [FCT]: https://www.fct.pt/
+[DOI]: https://doi.org/10.54499/UIDB/50021/2020
 [PurpleBooth]: https://gist.github.com/PurpleBooth
 [README-Template]: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
